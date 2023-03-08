@@ -4,26 +4,17 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-r-931480141/)
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TRBARROS&show_icons=true&theme=radical)
-<div style="display: inline_block">
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=trbarros&show_icons=true&theme=radical)
 
-<div style="display: inline-block;">
-   
-   <div style="display: inline-block">
-   <br/>
    <span style="font-size: 22px;"> Apaixonado por programação 💖</span></br>
    <span style="font-size: 22px;"> Focado em desenvolvimento WEB 🌐</span></br>
    <span style="font-size: 22px;"> Eterno estudante 💻</span></br>
    <span style="font-size: 22px;"> Amante do back-end e banco de dados 👨‍💻 </span></br>
    <span style="font-size: 22px;"> Interessado por cyber security 🔐</span>
-   </div>
-</div>
 
-</div>
 </br>
 <span style="font-size: 20px">"A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles."</span></br>
 <span>-Sérgio Arena</span>
-
 </br>
 <hr>
 
