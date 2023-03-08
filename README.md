@@ -4,11 +4,11 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-r-931480141/)
 
-
-<div style="display: inline_block"><br/>
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TRBARROS&show_icons=true&theme=radical)
+<div style="display: inline_block">
 
 <div style="display: inline-block;">
-   <img alt="html5" src="https://github-readme-stats.vercel.app/api?username=TRBARROS&show_icons=true&theme=radical" />
+   
    <div style="display: inline-block">
    <br/>
    <span style="font-size: 22px;"> Apaixonado por programação 💖</span></br>
