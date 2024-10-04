@@ -7,11 +7,10 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-r-931480141/)
 
 <div align="center">
-
-   | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dark&count_private=true) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USERNAME&theme=dark) |
-   | --- | --- |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=trbarros&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" style="width: 48%; margin-right: 2%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trbarros&theme=dark" alt="GitHub Streak Stats" style="width: 48%;" />
 </div>
+
 
 
 
