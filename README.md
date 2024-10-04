@@ -11,6 +11,8 @@
   <img width=390 src="https://github-readme-stats-stats.vercel.app/api?username=stats&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=trbarros&theme=dark)
+
    <span style="font-size: 22px;"> Apaixonado por programação 💖</span></br>
    <span style="font-size: 22px;"> Focado em desenvolvimento WEB 🌐</span></br>
    <span style="font-size: 22px;"> Eterno estudante 💻</span></br>
