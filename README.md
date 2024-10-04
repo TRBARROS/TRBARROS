@@ -47,4 +47,3 @@
   <br/><br/><br/>
 </div>
 
-![snake gif](https://github.com/trbarros/trbarros/blob/output/snake.svg)
