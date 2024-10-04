@@ -7,8 +7,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-r-931480141/)
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-TRBARROS.vercel.app/?user=TRBARROS&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-TRBARROS.vercel.app/api?username=TRBARROS&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-stats.vercel.app/?user=stats&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-stats.vercel.app/api?username=stats&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
    <span style="font-size: 22px;"> Apaixonado por programação 💖</span></br>
