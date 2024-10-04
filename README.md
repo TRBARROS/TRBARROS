@@ -40,3 +40,19 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
+
+<div align="center">
+  <h2>🛠️ Languages-Frameworks-Tools 🛠️</h2>
+  
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 10px;" />
+  <img src="https://avatars.githubusercontent.com/u/2276158?s=200&v=4" alt="JasperReports" style="margin: 10px; width: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" style="margin: 10px;" />
+  
+</div>
+
