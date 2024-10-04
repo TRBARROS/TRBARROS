@@ -25,7 +25,7 @@
 
 <div align="center">
   <h2>🛠️ Languages-Frameworks-Tools 🛠️</h2>
-  
+  <br>
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" style="margin: 10px;" />
