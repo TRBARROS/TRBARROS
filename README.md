@@ -37,7 +37,7 @@
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" style="margin: 10px;" />
-  
+  <br>
 </div>
 
 <div align="center">
