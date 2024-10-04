@@ -7,8 +7,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-r-931480141/)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trbarros&show_icons=true&theme=dark&count_private=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0d1117" alt="GitHub Stats" style="width: 48%; height: 180px; margin-right: 2%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trbarros&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&background=0d1117&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak Stats" style="width: 48%; height: 180px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trbarros&show_icons=true&theme=dark&count_private=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0d1117" alt="GitHub Stats" style="width: 48%; height: 170px; margin-right: 2%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trbarros&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&background=0d1117&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak Stats" style="width: 48%; height: 170px;" />
 </div>
 
    <span style="font-size: 22px;"> Apaixonado por programação 💖</span></br>
