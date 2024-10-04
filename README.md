@@ -45,7 +45,7 @@
   <h2>🛠️ Languages-Frameworks-Tools 🛠️</h2>
   
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database" style="margin: 10px;" />
+  <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" alt="Database" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 10px;" />
