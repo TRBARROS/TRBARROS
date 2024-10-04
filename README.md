@@ -7,11 +7,12 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-r-931480141/)
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-stats.vercel.app/?user=stats&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-stats.vercel.app/api?username=stats&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+   ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=trbarros&theme=dark)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trbarros&show_icons=true&theme=dark&count_private=true)
 </div>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=trbarros&theme=dark)
+
+
 
    <span style="font-size: 22px;"> Apaixonado por programação 💖</span></br>
    <span style="font-size: 22px;"> Focado em desenvolvimento WEB 🌐</span></br>
