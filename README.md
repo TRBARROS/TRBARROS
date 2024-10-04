@@ -49,7 +49,7 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 10px;" />
-  <img src="https://avatars.githubusercontent.com/u/2276158?s=200&v=4" alt="JasperReports" style="margin: 10px; width: 48px;" />
+  <img src="https://opensource.muenchen.de/logo/jaspersoft_studio_icon.jpg" alt="JasperReports" style="margin: 10px; width: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" style="margin: 10px;" />
