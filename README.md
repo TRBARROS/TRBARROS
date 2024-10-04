@@ -17,11 +17,11 @@
    <span style="font-size: 22px;"> Amante do back-end e banco de dados 👨‍💻 </span></br>
    <span style="font-size: 22px;"> Interessado por cyber security 🔐</span>
 
-</br>
-<span style="font-size: 20px">"A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles."</span></br>
-<span>-Sérgio Arena</span>
-</br>
-<hr>
+   </br>
+   <span style="font-size: 20px">"A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles."</span></br>
+   <span>-Sérgio Arena</span>
+   </br>
+   <hr>
 
 <div align="center">
   <h2>🛠️ Languages-Frameworks-Tools 🛠️</h2>
@@ -37,8 +37,6 @@
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" style="margin: 10px;" />
-  <br>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trbarros&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br>
 </div>
 
