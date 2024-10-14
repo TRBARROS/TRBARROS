@@ -19,7 +19,6 @@
 
    </br>
    <span style="font-size: 20px">"A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles."</span></br>
-   <span>-Sérgio Arena</span>
    </br>
    <hr>
 
